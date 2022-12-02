@@ -1,17 +1,17 @@
 ![image](./assets/banner.png)
 
 
-# {Project Name} - MAGNATHON
-Tell us about your project here
+# Eco-Assist - MAGNATHON
+Enabling people to contribute towards a sustainable future without even realising as they are driven by the rewards.  Improves the quality of public transport systems as the people are incentivised. Encourages the use of alternate sources of energy. Promote the use of eco-friendly products through the redeem codes availed to them.  Gives them a strong reason to participate in a sustainable appraoch as they get hand-on rewards rather than a promise of a better future.
 
 ## Team Members
-[1.Team Member 1](enter_github_profile_url)   
-[2.Team Member 2](enter_github_profile_url)   
-[3.Team Member 3](enter_github_profile_url)   
-[4.Team Member 4](enter_github_profile_url)   
+[1.AHAMMED SHIBINSHA K K](enter_github_profile_url)   
+[2.BASSAM ELACHOLA](enter_github_profile_url)   
+[3.ANKITH P VINOD](enter_github_profile_url)   
+[4.ADHIL RUMAIS](enter_github_profile_url)   
 
 ## Link to Project
-[Embed the live link of project](live_link)
+[Embed the live link of project](https://github.com/ANKITHPVINOD/Eco-Assist.git)
 
 ## How it Works ?
 Explaining the working of project  
